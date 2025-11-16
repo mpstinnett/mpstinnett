@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @mpstinnett
-- 👀 I’m interested in Machine Learning and Block Chain Development
-- 🌱 I’m currently learning How to build large scale applications
-- 💞️ I’m looking to collaborate on most of anything
 - 📫 How to reach me mpstinnett@gmail.com
 
 <!---
